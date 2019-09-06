@@ -3,4 +3,5 @@
   (lib (name device)(type Legacy)(uri ${KIPRJMOD}/libs/device.lib)(options "")(descr ""))
   (lib (name micromouse)(type Legacy)(uri ${KIPRJMOD}/libs/micromouse.lib)(options "")(descr ""))
   (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/libs/teensy.lib)(options "")(descr ""))
+  (lib (name motor)(type Legacy)(uri ${KIPRJMOD}/libs/motor.lib)(options "")(descr ""))
 )
