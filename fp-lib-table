@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name micromouse)(type KiCad)(uri ${KIPRJMOD}/libs/footprints.pretty)(options "")(descr ""))
+  (lib (name digikey)(type KiCad)(uri ${KIPRJMOD}/libs/digikey-footprints.pretty)(options "")(descr ""))
+)
